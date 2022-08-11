@@ -1,0 +1,16 @@
+requests
+pytest==5.4.3
+pytest-pylint
+formic2
+pytest-pep8
+pytest-watch
+pytest-mock
+pyyaml
+pytest-cov
+timezonefinder
+pandas
+pyarrow
+statistics
+shapely
+delta-spark
+psycopg2-binary
